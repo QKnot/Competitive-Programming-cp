@@ -1,0 +1,5 @@
+input_line = input()
+input_strings = input_line.split()
+x = int(input_strings[0])
+y = int(input_strings[1])
+print(x + y)
