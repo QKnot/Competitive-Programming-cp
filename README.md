@@ -17,3 +17,4 @@ The Interested Community for Competitive Programming (ICCP) -CISC at the Norther
 - [Competitive Programming Handbook](cpResources/cpBooks/CompetitiveProgrammersHandbook.pdf)
 - [Competitive Programming 4 Part 1](cpResources/cpBooks/CompetitiveProgramming4Book1.pdf)
 - [Competitive Programming 4 Part 2](cpResources/cpBooks/CompetitiveProgramming4Book2.pdf)
+- [Introduction to Algorithm 4'th edition](cpResources/cpBooks/IntroductiontoAlgorithms4th.pdf)
