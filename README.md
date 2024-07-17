@@ -1,3 +1,13 @@
 # Interested-Community-for-Competitive-Programming-ICCP-CISC
 The Interested Community for Competitive Programming (ICCP) -CISC at the Northern University of Business and Technology Khulna is a dynamic and enthusiastic group of students dedicated to mastering the art of competitive programming. <br> <br> 
+## Popular Online Judges for Competitive Programming
+
+- [Codeforces](https://codeforces.com)
+- [CSES](https://cses.fi)
+- [CodeChef](https://www.codechef.com)
+- [AtCoder](https://atcoder.jp)
+- [TopCoder](https://www.topcoder.com)
+- [HackerRank](https://www.hackerrank.com)
+- [HackerEarth](https://www.hackerearth.com)
+- [SPOJ](https://www.spoj.com)
 প্রথম সেমিস্টারের শিক্ষার্থীদের জন্য অথবা যারা কম্পিউটার প্রোগ্রামিং-এর সাথে পরিচিত নয়, তারা তামিম শাহরিয়ার সুবিন স্যারের [কম্পিউটার প্রোগ্রামিং ১](cpResources/cProgramming) বইটি পড়তে পারেন।
