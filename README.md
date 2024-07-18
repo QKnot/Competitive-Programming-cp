@@ -13,7 +13,7 @@ The Interested Community for Competitive Programming (ICCP) -CISC at the Norther
 <br> <br>
 
 ## Competitive Programming জন্য সেরা বইগুলি
-- প্রথম সেমিস্টারের শিক্ষার্থীদের জন্য অথবা যারা কম্পিউটার প্রোগ্রামিং-এর সাথে পরিচিত নয়, তারা তামিম শাহরিয়ার সুবিন স্যারের [কম্পিউটার প্রোগ্রামিং ১](cpResources/cProgramming/CP_ComputerProgrammingTamimShariarSubeen.pdf) বইটি পড়তে পারেন।
+- প্রথম সেমিস্টারের শিক্ষার্থীদের জন্য অথবা যারা কম্পিউটার প্রোগ্রামিং-এর সাথে পরিচিত নন, তারা তামিম শাহরিয়ার সুবিন স্যারের [কম্পিউটার প্রোগ্রামিং ১](cpResources/cProgramming/CP_ComputerProgrammingTamimShariarSubeen.pdf) বইটি পড়তে পারেন।
 - [Competitive Programming Handbook](cpResources/cpBooks/CompetitiveProgrammersHandbook.pdf)
 - [Competitive Programming 4 Part 1](cpResources/cpBooks/CompetitiveProgramming4Book1.pdf)
 - [Competitive Programming 4 Part 2](cpResources/cpBooks/CompetitiveProgramming4Book2.pdf)
