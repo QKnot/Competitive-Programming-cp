@@ -18,3 +18,8 @@ The Interested Community for Competitive Programming (ICCP) -CISC at the Norther
 - [Competitive Programming 4 Part 1](cpResources/cpBooks/CompetitiveProgramming4Book1.pdf)
 - [Competitive Programming 4 Part 2](cpResources/cpBooks/CompetitiveProgramming4Book2.pdf)
 - [Introduction to Algorithm 4'th edition](cpResources/cpBooks/IntroductiontoAlgorithms4th.pdf)
+  
+``Competitive Programming শুরু করার জন্য প্রথমে একটা Programming Language এর মৌলিক বিষয় গুলো খুব সুন্দর করে শেখা প্রয়োজন।``
+<br> 
+## Competitive Programming এর জন্য কোন Programming Language শেখা উচিৎ? <br>
+৯৫% Competitive Programmers C++ ব্যবহার করে থাকেন। কারণ C++ এ STL(Standard Template Libray) আছে এবং low level data নিয়ে কাজ করার জন্য সব থেকে উত্তম ভাষা।
