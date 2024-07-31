@@ -2,15 +2,16 @@
 
 The Interested Community for Competitive Programming (ICCP) at the Northern University of Business and Technology Khulna is a dynamic and enthusiastic group of students dedicated to mastering the art of competitive programming.
 
-## Index
+## Table of Contents
 
-1. [সব থেকে জনপ্রিয় Competitive Programming Online Judge গুলো](#online-judges)
-2. [Competitive Programming set-up এর জন্য এই repository টি check করতে পারেন](#repository)
-3. [Competitive Programming জন্য সেরা বইগুলি](#books)
-4. [Competitive Programming এর জন্য কোন Programming Language শেখা উচিৎ?](#programming-language)
-5. [প্রথম প্রোগ্রাম: Hello World in C++](#hello-world)
+1. [Competitive Programming Online Judge](#online-judges)
+2. [Competitive Programming set-up](#repository)
+3. [Competitive Programming Books](#books)
+4. [Competitive Programming এর জন্য Programming Language](#programming-language)
+5. [Basic of C++](#C++)
+    - [Hello World](#helloWorld)
 
-## 1. সব থেকে জনপ্রিয় Competitive Programming Online Judge গুলো <a name="online-judges"></a>
+## সব থেকে জনপ্রিয় Competitive Programming Online Judge গুলো <a name="online-judges"></a>
 
 - [Codeforces](https://codeforces.com)
 - [CSES](https://cses.fi)
@@ -21,9 +22,9 @@ The Interested Community for Competitive Programming (ICCP) at the Northern Univ
 - [HackerEarth](https://www.hackerearth.com)
 - [SPOJ](https://www.spoj.com)
 
-## 2. Competitive Programming set-up এর জন্য এই repository টি [check](#) করতে পারেন <a name="repository"></a>
-
-## 3. Competitive Programming জন্য সেরা বইগুলি <a name="books"></a>
+## Competitive Programming set-up
+- Competitive Programming set-up এর জন্য এই [repository](https://github.com/nxtsourav7/Compitative-Programming-Setup.git) টি check করতে পারেন। <a name="repository"></a>
+## Competitive Programming জন্য সেরা বইগুলি <a name="books"></a>
 
 - প্রথম সেমিস্টারের শিক্ষার্থীদের জন্য অথবা যারা কম্পিউটার প্রোগ্রামিং-এর সাথে পরিচিত নন, তারা তামিম শাহরিয়ার সুবিন স্যারের [কম্পিউটার প্রোগ্রামিং ১](cpResources/cProgramming/CP_ComputerProgrammingTamimShariarSubeen.pdf) বইটি পড়তে পারেন।
 - [Competitive Programming Handbook](cpResources/cpBooks/CompetitiveProgrammersHandbook.pdf)
@@ -33,19 +34,24 @@ The Interested Community for Competitive Programming (ICCP) at the Northern Univ
 
 `Competitive Programming শুরু করার জন্য প্রথমে একটি Programming Language এর মৌলিক বিষয়গুলো সুন্দরভাবে শেখা প্রয়োজন। 🌟`
 
-## 4. Competitive Programming এর জন্য কোন Programming Language শেখা উচিৎ? <a name="programming-language"></a>
+## Competitive Programming এর জন্য কোন Programming Language শেখা উচিৎ? <a name="programming-language"></a>
 
-৯৫% Competitive Programmers [c++](https://cppreference.com/) ব্যবহার করে থাকেন। কারণ C++ এ STL(Standard Template Libray) আছে এবং low level data নিয়ে কাজ করার জন্য সব থেকে উত্তম ভাষা।
-
-## 5. প্রথম প্রোগ্রাম: Hello World in C++ <a name="hello-world"></a>
-
-যেকোনো programming language শেখার প্রথমে আমরা সাধারণত Hello world print করে থাকি।
-
+- ৯৫% Competitive Programmers C++ ব্যবহার করে থাকেন। কারণ C++ এ STL (Standard Template Library) রয়েছে এবং এটি low-level data নিয়ে কাজ করার জন্য অত্যন্ত কার্যকর।
+- Python ও অন্যান্য ভাষা যেমন Java, Rust এবং Kotlinও competitive programming এ ব্যবহৃত হয়। Python এর সহজ syntax এবং শক্তিশালী libraries যেমন NumPy এবং pandas, বিভিন্ন সমস্যার সমাধানে সুবিধা প্রদান করে।
+## Basic of C++<a name="C++"></a>
+C++ শেখার আগে আমাদের কিছু বিষয় সম্পর্কে জানা খুবই গুরুত্বপূর্ণ।মানুষ  ভাষা ব্যবহার করে থাকে একে অন্যের সাথে যোগাযোগ করার জন্য। তেমনই কম্পিটার সাথে যোগাযোগ করার জন্য আমাদের কম্পিউটারের বোধগম্য ভাষার প্রয়োজন। আসলে কম্পিউটার কোনো ভাষাই বুঝতে পারে না একটা হাদারাম; কিন্তু কোনো কাজ বুঝিয়ে দিতে পারলে চোখের পলকে করে দিতে পারে। কম্পিউটার শুধু বুঝতে পারে বিদ্যুৎ এর উপস্থিতি(১) এবং অনুপস্থিতি(০)। এর জন্য আমাদের প্রয়োজন একজন traslator যে এই ভাষা translate করে কম্পিউটারকে বুঝিয়ে দিতে পারে। এই translator কে আমরা বলি compiler। এখন সব ভাষা সরাসরি ০ অথবা ১ এ রূপান্তর করে না। এর বিভিন্ন প্রকারভেদ আছে যেমনঃ 
+- compiled language(C, C++, Rust, Go) সরাসরি code কে  `machine code or binary code(0 or 1)` translate করতে পারে।
+- Interpreted language(Python, JavaScript, PHP, Ruby) সরাসরি code কে  `machine code or binary code(0 or 1)` translate করতে পারে না।
+- Hybrid language(Java, C#) এটা সরাসরি code কে  `machine code or binary code(0 or 1)` translate না করে প্রথমে bytecode এ রূপান্তর করে। তারপর কোনো Interpreter সেটা কে `machine code or binary code(0 or 1)` translate করে। <br>
+### 5.1 Hello World <a name="helloWorld"></a>
+যেকোনো programming language শেখার প্রথমে সাধারণত Hello world print করে শুরু করা হয়। আমরা সেটা দিয়ে শুরু করব
 ```cpp
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-
-int main() {
+int main()
+{
     cout << "Hello, World" << '\n';
     return 0;
 }
+
+
