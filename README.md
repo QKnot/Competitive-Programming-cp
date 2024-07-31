@@ -7,7 +7,7 @@ The Interested Community for Competitive Programming (ICCP) at the Northern Univ
 1. [Competitive Programming Online Judge](#online-judges)
 2. [Competitive Programming set-up](#repository)
 3. [Competitive Programming Books](#books)
-4. [Competitive Programming এর জন্য Programming Language](#programming-language)
+4. [Programming Language for Competitive Programming](#programming-language)
 5. [Basic of C++](#C++)
     - [Hello World](#helloWorld)
 
