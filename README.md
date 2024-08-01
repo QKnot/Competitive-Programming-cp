@@ -54,7 +54,7 @@ int main()
     return 0;
 }
 ```
-``#include<bits/stdc++.h>`` এটা আবার কী?<br>
+- ``#include<bits/stdc++.h>`` এটা আবার কী?<br>
 এটা কে বলে header file। এখন প্রশ্ন আসে header file জিনিসটা আবার কী?<br>
 Header file হলো function, variable, class এবং অন্যান্য উপাদান এর ঘোষণা।<br>
 সহজ কথাই বলতে গেলে এটা বলে দেয় তুমি কি কি function, class নিয়ে কাজ করতে পারবা। কিন্তু ঐ function বা class এর পুরো কোড header file এ সধারনত থাকে না। এই কোড আমাদের sourch file এ লেখা লিখতে হয়। এই বিষয় নিয়ে আরও জানতে চাইলে এই [লিংক](https://en.cppreference.com/w/cpp/header) টা দেখতে পারো।<br>
