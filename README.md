@@ -58,6 +58,5 @@ int main()
 এটা কে বলে header file। এখন প্রশ্ন আসে header file জিনিসটা আবার কী?<br>
 Header file হলো function, variable, class এবং অন্যান্য উপাদান এর ঘোষণা।<br>
 সহজ কথাই বলতে গেলে এটা বলে দেয় তুমি কি কি function, class নিয়ে কাজ করতে পারবা। কিন্তু ঐ function বা class এর পুরো কোড header file এ সধারনত থাকে না। এই কোড আমাদের sourch file এ লেখা লিখতে হয়। এই বিষয় নিয়ে আরও জানতে চাইলে এই [লিংক](https://en.cppreference.com/w/cpp/header) টা দেখতে পারো।<br>
-এখন [``#include<bits/stdc++.h>``](https://gist.github.com/Einstrasse/ac0fe7d7450621a39364ed3b05cacd11) কোনো ``#include<iostream>`` বা ``#include<string>`` এর মতো standard header file না। এটা competitive programming মাথায় রেখে তৈরি করা। এটা অনেক গুলো standard header file এর সমন্বয়ে তৈরি। যাতে করে বার বার আমাদের header file ঘোষণা করার মতো ঝামেলায় না পরতে হয়। কারণ competitive programming এ সময় খুবই গুরুত্বপূর্ণ বিষয়। 
-
+এখন [``#include<bits/stdc++.h>``](https://gist.github.com/Einstrasse/ac0fe7d7450621a39364ed3b05cacd11) কোনো ``#include<iostream>`` বা ``#include<string>`` এর মতো standard header file না। এটা competitive programming মাথায় রেখে তৈরি করা। এটা অনেক গুলো standard header file এর সমন্বয়ে তৈরি। যাতে করে বার বার আমাদের header file ঘোষণা করার মতো ঝামেলায় না পরতে হয়। কারণ competitive programming এ সময় খুবই গুরুত্বপূর্ণ বিষয়।
 
