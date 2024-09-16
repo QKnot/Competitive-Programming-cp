@@ -1,4 +1,4 @@
-#Competitive Programing(Cp) 
+# Competitive Programing(Cp) 
 
 ## Table of Contents
 
